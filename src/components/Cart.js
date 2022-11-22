@@ -1,6 +1,8 @@
 import { ListGroup, Button , Row, Col, Form, Image} from "react-bootstrap";
 import { CartState } from "../context/Context.js"
 import {useEffect, useState } from "react";
+import React from 'react'
+
 
 import { AiFillDelete } from "react-icons/ai";
 import "./styles.css"

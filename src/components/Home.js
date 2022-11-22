@@ -2,6 +2,8 @@ import { CartState } from '../context/Context.js'
 import SingleProduct from './SingleProduct'
 import "./styles.css"
 import Filters from './Filters'
+import React from 'react'
+
 
 //const urlText = 'https://626970b0aa65b5d23e84cab0.mockapi.io/api/v1/shirts';
 

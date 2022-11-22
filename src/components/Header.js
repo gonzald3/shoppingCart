@@ -13,6 +13,8 @@ import { GiShoppingCart } from 'react-icons/gi'
 import {  Link} from 'react-router-dom';
 import { CartState } from "../context/Context";
 import { AiFillDelete} from "react-icons/ai";
+import React from 'react'
+
 
 
 
